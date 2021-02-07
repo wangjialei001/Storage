@@ -1,0 +1,10 @@
+{
+  "appInfo": {
+    "name": "weiapp", //app名称
+    "version": "v01", //版本号
+    "wgtUrl": "", //热更新地址
+    "pkgUrl": "", //全包更新
+    "status": 1, //1：需要升级，2-无需升级
+    "note": "修复bug1；修改bug2；"//升级内容
+  }
+}

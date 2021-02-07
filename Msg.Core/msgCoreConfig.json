@@ -1,0 +1,15 @@
+{
+  "UniPush": {
+    "Url": "https://restapi.getui.com/v2/",
+    "AppKey": "UdbBLH41HV5rCsqpL94DW3",
+    "MasterSecret": "5KE369Y9aQ6lIz01MUsXl3",
+    "AppId": "aVfYfaFq25Apol0iVhbOe1",
+    "TTL": 3600000 //3Ìì
+  },
+  "MQ": {
+    "Url": "10.0.102.162:9092"
+  },
+  "UniApp": {
+    "Package": "com.weienergy.app"
+  }
+}

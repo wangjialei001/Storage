@@ -1,0 +1,24 @@
+2020-10-12 13:59:57.0540,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:14:03.5014,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:14:11.9415,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:15:41.5328,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:17:21.6108,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:35:25.5678,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:39:01.7340,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.
+2020-10-12 14:41:06.3186,INFO,Bearer was not authenticated. Failure message: IDX10501: Signature validation failed. Unable to match keys: 
+kid: '[PII is hidden]', 
+token: '[PII is hidden]'.

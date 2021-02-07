@@ -1,0 +1,22 @@
+2020-11-18 16:57:45.4044,ERROR,DelClientMsgInfoByClientId;Unable to connect to any of the specified MySQL hosts.
+2020-11-18 16:59:07.5464,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:23:12.7844,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:25:42.5204,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:30:38.8735,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:32:12.2743,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:10.0102,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:20.1790,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:20.7969,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:23.7697,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:34.7256,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:38.8597,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:35:45.9373,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:36:35.5558,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:36:43.7328,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:36:52.1497,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:37:01.9111,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:38:01.4011,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:38:09.0455,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:38:17.1421,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:39:52.9582,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService
+2020-11-18 17:40:58.4443,ERROR,ActionName:WeiCloudStorageAPI.Services.UniAppMsgService

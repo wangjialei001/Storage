@@ -1,0 +1,24 @@
+2021-02-04 10:11:46.1097 Error Error parsing layout year will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:11:46.1635 Error Error parsing layout year_month will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year_month'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:12:53.9138 Error Error parsing layout year will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:12:53.9331 Error Error parsing layout year_month will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year_month'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:13:11.0853 Error Error parsing layout year will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:13:11.1046 Error Error parsing layout year_month will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year_month'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:13:32.7620 Error Error parsing layout year will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)
+2021-02-04 10:13:32.7818 Error Error parsing layout year_month will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'year_month'
+   at NLog.Config.Factory`2.CreateInstance(String itemName)
+   at NLog.Layouts.LayoutParser.GetLayoutRenderer(ConfigurationItemFactory configurationItemFactory, String name, Nullable`1 throwConfigExceptions)

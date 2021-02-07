@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaikangSDK", "VideoPackage\HaikangSDK\HaikangSDK.csproj", "{592FC088-52D5-4A81-8A8B-49E7973A0A4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeiCloudStorageAPI", "WeiCloudStorageAPI\WeiCloudStorageAPI.csproj", "{58CAC249-4EE9-4B4E-80C3-AF6375E2C57D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Msg.Core", "Msg.Core\Msg.Core.csproj", "{9EA19613-C32E-4AFD-AE97-025212504600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592FC088-52D5-4A81-8A8B-49E7973A0A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592FC088-52D5-4A81-8A8B-49E7973A0A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592FC088-52D5-4A81-8A8B-49E7973A0A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592FC088-52D5-4A81-8A8B-49E7973A0A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CAC249-4EE9-4B4E-80C3-AF6375E2C57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CAC249-4EE9-4B4E-80C3-AF6375E2C57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CAC249-4EE9-4B4E-80C3-AF6375E2C57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CAC249-4EE9-4B4E-80C3-AF6375E2C57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA19613-C32E-4AFD-AE97-025212504600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA19613-C32E-4AFD-AE97-025212504600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA19613-C32E-4AFD-AE97-025212504600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA19613-C32E-4AFD-AE97-025212504600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF80BC4B-1027-4FCB-897C-A3C4613D2709}
+	EndGlobalSection
+EndGlobal
